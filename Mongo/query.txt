@@ -1,0 +1,5 @@
+
+
+check_mongodb.py -H 192.168.110.144 -A collections -P 27017 -W 300 -C 500 -u nagios -p xxx -D --all-databases
+
+
